@@ -19,7 +19,7 @@ This project provides a RESTful API for managing customer data. It uses **Kotlin
 
 This project follows the practice of documenting architectural decisions using **Architectural Decision Records (ADRs)**. Each significant technical decision is captured in a dedicated ADR file to provide context, rationale, and implications.
 
-You can find the first ADR, which documents the decision to adopt this practice, [here](docs/ADRs/00_Decision_to_use_ADRs.md).
+You can find the first ADR, which documents the decision to adopt this practice, [here](docs/adrs/00_Decision_to_use_ADRs.md).
 
 For a full list of ADRs, navigate to the `docs/ADRs/` directory.
 
