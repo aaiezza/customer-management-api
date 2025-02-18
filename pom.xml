@@ -12,7 +12,7 @@
     <description>A RESTful API for managing customer data</description>
 
     <properties>
-        <kotlin.version>2.1.0</kotlin.version>
+        <kotlin.version>2.1.10</kotlin.version>
         <jooq.version>3.19.16</jooq.version>
         <spring-boot.version>3.4.2</spring-boot.version>
         <flyway.version>11.1.0</flyway.version>
