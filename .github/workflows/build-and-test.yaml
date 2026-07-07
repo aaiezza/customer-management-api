@@ -30,7 +30,7 @@ jobs:
 
       # Upload the target directory as an artifact
       - name: Upload Maven Build Artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: maven-build
           path: target/
@@ -125,7 +125,7 @@ jobs:
 
       # Upload Postman Test Report as Artifact
       - name: Upload Postman Test Report
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: postman-test-report
           path: postman/reports/report.html
