@@ -46,7 +46,7 @@ jobs:
 
       # Download Maven Build Artifacts
       - name: Download Maven Build Artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: maven-build
           path: target/
