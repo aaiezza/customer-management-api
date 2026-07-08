@@ -115,7 +115,7 @@
         <dependency>
             <groupId>io.github.oshai</groupId>
             <artifactId>kotlin-logging-jvm</artifactId>
-            <version>7.0.4</version>
+            <version>8.0.4</version>
         </dependency>
         <dependency>
             <groupId>net.logstash.logback</groupId>
