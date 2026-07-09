@@ -9,12 +9,10 @@ import io.mockk.mockk
 import io.mockk.verify
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.fail
-import org.springframework.boot.test.autoconfigure.web.client.RestClientTest
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import java.util.*
 
-@RestClientTest
 class CustomerControllerTest {
 
     // Mock all required executors
