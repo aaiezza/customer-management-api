@@ -1,4 +1,4 @@
-FROM amazoncorretto:26.0.1-alpine
+FROM amazoncorretto:26.0.2-alpine
 VOLUME /tmp
 EXPOSE 8080
 
